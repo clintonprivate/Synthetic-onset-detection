@@ -1,3 +1,3 @@
 # Synthetic-onset-detection
 
-F1 Score: 3.22%
+F1 Score: 3.96%
