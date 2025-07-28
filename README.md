@@ -2,6 +2,4 @@
 
 F1 Score: 28.88%
 
-Lowest loss: 0.29 - 1h 40 minutes of audio
-
 Lowest loss: 0.19 - 30 minutes of audio - tts
