@@ -1,6 +1,6 @@
 # Synthetic-onset-detection
 
-F1 Score: 26.74%
+F1 Score: 27.55%
 
 Lowest loss: 0.29 - 1h 40 minutes of audio
 
