@@ -1,5 +1,5 @@
 # Synthetic-onset-detection
 
-F1 Score: 48.18%
+F1 Score: 28.00%
 
-Lowest loss: 0.19 - 30 minutes of audio - tts
+Training data: text to speech
